@@ -1,0 +1,33 @@
+III. PHRASE STRUCTURE ANNOTATION
+
+The phrase structure tree annotation is similar to the Penn Treebank II notation, described in "Bracketing Guidelines for Treebank II Style Penn Treebank Project": AnnotationLabels.html
+
+There are a few exceptions, which were made to (hopefully) make the labeling more useful to syntactic acquisition researchers:
+
+(1) Complementizers (such as "if", "that", etc.) are labeled with COMP, rather than the preposition label IN.
+(2) The contracted forms "gonna" and "wanna" have been expanded into "goING To" and "wanT To" for the corpora listed below.  (This aided the initial automatic parsing for the Charniak parser, and the unusual capitalization patterns can still allow these forms to be retrieved automatically.) brown-adam, brown-eve, brown-sarah, soderstrom, suppes, valian, bates-wh, bernstein-wh, vanhouten-threes-wh, vanhouten-twos-wh, vankleeck-wh.
+(3) NOT is used for the negatives "not" and "n't", rather than the adverb label RB.
+(4) COP is used for forms of copular "be", rather than the verb labels VB*.
+(5) AUX is used for auxiliary verbs, with the VB* reserved for main verbs.
+(6) TO is only used for infinitival "to" (e.g., "want to go") while IN is used for prepositional "to" (e.g., "to the store"), as well as other prepositions.
+
+
+IV. TRACE ANNOTATION
+
+To aid syntactic acquisition researchers, we have begun adding trace annotation. The trace notation is similar in format to the Switchboard corpus, but uses different categories of traces.
+
+The first distinction is between A-bar traces and A traces, with each of these subdivided into additional categories.
+
+(1) ABAR traces:
+(a) WH = wh-traces (e.g., “How do you feel __?”)
+
+Some examples are below of the specific notation:
+(1a) “How do you feel?” [ABAR-WH]
+(ROOT
+   (SBARQ
+	(WHADVP-1 (WRB how))
+           (SQ (AUX do)
+                   (NP (PRP you))
+                   (VP (VB feel)
+                          (ADVP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
