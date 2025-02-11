@@ -1,0 +1,44 @@
+0
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (MD should) (NP (NNP Derek)) (VP (VB hug) (NP (-NONE- *T*)) (SBAR (COMP after) (S (VP (VBG shocking) (NP (NNP Richard)))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (MD should) (NP (NNP Derek)) (VP (VB hug) (NP (NNP Richard)) (SBAR (COMP after) (S (VP (VBG shocking) (NP (-NONE- *T*)))))))) (. ?))))
+
+1
+((ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX had) (NP (NNP Theresa)) (VP (VBD walked) (PP (IN through) (NP (-NONE- *T*))) (SBAR (COMP while) (S (VP (VBG talking) (PP (IN about) (NP (DT that) (JJ high) (NN school))))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX had) (NP (NNP Theresa)) (VP (VBD walked) (PP (IN through) (NP (DT that) (JJ high) (NN school))) (SBAR (COMP while) (S (VP (VBG talking) (PP (IN about) (NP (-NONE- *T*))))))))) (. ?))))
+
+2
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (MD will) (NP (NNP Katherine)) (VP (VB discover) (NP (-NONE- *T*)) (SBAR (COMP without) (S (VP (VBG hiring) (NP (NNP Erin)))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (MD will) (NP (NNP Katherine)) (VP (VB discover) (NP (NNP Erin)) (SBAR (COMP without) (S (VP (VBG hiring) (NP (-NONE- *T*)))))))) (. ?))))
+
+
+3
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (AUX has) (NP (NNP Colleen)) (VP (VBD aggravated) (NP (-NONE- *T*)) (SBAR (COMP before) (S (VP (VBG kissing) (NP (NNP Judy)))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (AUX has) (NP (NNP Colleen)) (VP (VBD aggravated) (NP (NNP Judy)) (SBAR (COMP before) (S (VP (VBG kissing) (NP (-NONE- *T*)))))))) (. ?))))
+
+
+4
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (AUX have) (NP (JJS most) (NNS people)) (VP (VBD discovered) (NP (-NONE- *T*)) (SBAR (COMP while) (S (VP (VBG embarrassing) (NP (NNP Erin)))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (AUX have) (NP (JJS most) (NNS people)) (VP (VBD discovered) (NP (NNP Erin)) (SBAR (COMP while) (S (VP (VBG embarrassing) (NP (-NONE- *T*)))))))) (. ?))))
+
+
+5
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (AUX was) (NP (NNP William)) (VP (VBG firing) (NP (-NONE- *T*)) (SBAR (COMP before) (S (VP (VBG talking) (PP (IN about) (NP (NNP Maria))))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (AUX was) (NP (NNP William)) (VP (VBG firing) (NP (NNP Maria)) (SBAR (COMP before) (S (VP (VBG talking) (PP (IN about) (NP (-NONE- *T*))))))))) (. ?))))
+
+6
+((ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX is) (NP (NNP Denise)) (VP (VBG descending) (NP (-NONE- *T*)) (SBAR (COMP while) (S (VP (VBG hiding) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS hills)))))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX is) (NP (NNP Denise)) (VP (VBG descending) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS hills)))) (SBAR (COMP while) (S (VP (VBG hiding) (NP (-NONE- *T*)))))))) (. ?))))
+
+7
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (AUX does) (NP (NNP John)) (VP (VB leave) (NP (-NONE- *T*)) (SBAR (COMP while) (S (VP (VBG alarming) (NP (NNP Beverly)))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (AUX does) (NP (NNP John)) (VP (VB leave) (NP (NNP Beverly)) (SBAR (COMP while) (S (VP (VBG alarming) (NP (-NONE- *T*)))))))) (. ?))))
+
+
+8
+((ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX was) (NP (NNP Melanie)) (VP (VBG going) (PP (IN to) (NP (-NONE- *T*))) (SBAR (COMP after) (S (VP (VBG taking) (NP (DT those) (NNS rivers)))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX was) (NP (NNP Melanie)) (VP (VBG going) (PP (IN to) (NP (DT those) (NNS rivers))) (SBAR (COMP after) (S (VP (VBG taking) (NP (-NONE- *T*)))))))) (. ?))))
+
+
+9
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (MD could) (NP (NNP Bethany)) (VP (VB research) (NP (-NONE- *T*)) (SBAR (COMP before) (S (VP (VBG discussing) (NP (NNP Winston) (NNP Churchill)))))))) (. ?))))
+((ROOT (SBARQ (WHNP (WP who)) (SQ (VP (MD could) (NP (NNP Bethany)) (VP (VB research) (NP (NNP Winston) (NNP Churchill)) (SBAR (COMP before) (S (VP (VBG discussing) (NP (-NONE- *T*)))))))) (. ?))))
