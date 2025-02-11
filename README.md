@@ -29,9 +29,9 @@ When you unzip the file you will get a folder "stanford-corenlp-4.5.8"
 depending on the version number. Now in the terminal, navigate to this 
 directory and start the parser.
 
-<pre> cd stanford-corenlp-4.5.8 
-java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \
- -preload tokenize,ssplit,pos,lemma,ner,parse,depparse \ 
+<pre>cd stanford-corenlp-4.5.8</pre> 
+<pre>java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \
+-preload tokenize,ssplit,pos,lemma,ner,parse,depparse \ 
 -status_port 9000 -port 9000 -timeout 15000 & </pre>
 
 This creates a local server where the downloaded parser model is loaded 
@@ -43,7 +43,7 @@ Then, from the terminal, we can run our parsing file which will connect to
 the local server you've just established. Download parsing.py and navigate 
 to the directory it is in. 
 
-<pre> python parsing.py "Here is an example sentence." </pre>
+<pre>python parsing.py "Here is an example sentence." </pre>
 
 This runs pasrsing.py with the argument "Here is an example sentence." which
 the file takes in and parses. You should see a tree printed in your terminal.
@@ -53,15 +53,15 @@ Finally, the server will be running in the background until you kill it. I use
 the following command to bring the process to the foreground and then press
 "control c" to stop it.
 
-<pre> fg 
-Ctrl + C </pre>  
+<pre>fg</pre> 
+<pre>Ctrl + C </pre>  
 
 ### Tree from parentheses notation
 To display a tree structure from parentheses notation, you can download the 
 tree_structure_from_string.py python file and run the following command from
 the terminal.
 
-<pre> python tree_structure_from_string.py "(S (NP (N Mary)) (VP (V slept)))" </pre>
+<pre>python tree_structure_from_string.py "(S (NP (N Mary)) (VP (V slept)))" </pre>
 
 This takes the string in quotation marks as an argument. You can replace this 
 string to visualize more trees. 
