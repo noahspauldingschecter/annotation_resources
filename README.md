@@ -43,11 +43,10 @@ Then, from the terminal, we can run our parsing file which will connect to
 the local server you've just established. Download parsing.py and navigate 
 to the directory it is in. 
 
-<pre>python parsing.py "Here is an example sentence." </pre>
+<pre>python parsing.py </pre>
 
-This runs pasrsing.py with the argument "Here is an example sentence." which
-the file takes in and parses. You should see a tree printed in your terminal.
-Make sure to include quotation marks! 
+This program will prompt you to type in the sentence you want to parse and the 
+format you want the output to be (tree format, parentheses format, or both). 
 
 Finally, the server will be running in the background until you kill it. I use
 the following command to bring the process to the foreground and then press
