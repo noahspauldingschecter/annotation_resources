@@ -1,3 +1,11 @@
+# Update 4/7/25
+I have added files for the non-wugged BLiMP test sets. This collection
+is all the test items for which the learned grammar has seen all the
+lexical items during training. I have one collection "all_samples" that
+contains all the items that all of the samples can be tested on without
+adding the special unseen character <WUG>. Then I have a collection for
+each sample. 
+
 # Annotation Resources
 I have compiled some resources for performing syntactic annotation.
 Ultimately, we want to create trees for sentences in line with the CHILDES
