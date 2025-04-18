@@ -106,4 +106,9 @@ who does n't Mitchell learn he thinks about *T* ?
 who does n't Mitchell learn who thinks about *T* ?
 what does n't Catherine know she would like *T* ?
 what does n't Catherine know who would like *T* ?
-what can n't Janice remember she has n't run 
+what can n't Janice remember she has n't run around ?
+what can n't Janice remember who has n't run around ?
+who does n't Tracy remember she sounded like ?
+who does n't Tracy remember what sounded like ?
+what can Caroline remember she took ?
+what can Caroline remember who took ?
